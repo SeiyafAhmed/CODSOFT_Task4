@@ -36,4 +36,4 @@ License
 This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/CODSOFT_Task4/blob/main/LICENSE) file for details. 
 
 Contact
-For any questions or suggestions, please [contact us](seiyafahmed.ofc@gmail.com).
+For any questions or suggestions, please [contact us](mailto:seiyafahmed.ofc@gmail.com).
