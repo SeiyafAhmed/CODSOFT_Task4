@@ -1,4 +1,4 @@
-# CODSOFT TASK 4: ROCK-PAPER-SCISSOR GAME
+# ROCK-PAPER-SCISSOR GAME
 ## Overview
 This is a user-friendly Rock-Paper-Scissor game developed in Python using the ttkbootstrap library. The game features an intuitive interface and animated hand movements, providing an engaging experience for users
 
@@ -13,7 +13,7 @@ This is a user-friendly Rock-Paper-Scissor game developed in Python using the tt
 
 1. Clone the repository:
 ```
-git clone https://github.com/SeiyafAhmed/CODSOFT_Task4.git
+git clone https://github.com/SeiyafAhmed/Rock-Paper-Scisor-Game.git
 ```
 
 2. Install the required libraries:
@@ -33,7 +33,7 @@ python main.py
 
 
 License
-This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/CODSOFT_Task4/blob/main/LICENSE) file for details. 
+This project is licensed under the MIT License. See the -[LICENSE](https://github.com/SeiyafAhmed/Rock-Paper-Scisor-Game/blob/main/LICENSE) file for details. 
 
 Contact
 For any questions or suggestions, please [contact us](mailto:seiyafahmed.ofc@gmail.com).
